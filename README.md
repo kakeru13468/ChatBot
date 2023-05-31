@@ -1,4 +1,4 @@
 # ChatBot
 
-###USAGE
+## USAGE
 To add the API to your environment variables
