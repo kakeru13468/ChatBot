@@ -1,0 +1,15 @@
+azure-cognitiveservices-speech==1.28.0
+imageio==2.27.0
+imageio-ffmpeg==0.4.8
+networkx==3.1
+numpy==1.24.2
+openai==0.27.5
+pandas==1.5.3
+Pillow==9.5.0
+tokenizers==0.13.3
+torch==2.0.0
+torchvision==0.15.1
+transformers==4.28.1
+moviepy==1.0.3
+diffusers==0.16.1
+python-ffmpeg==2.0.4
